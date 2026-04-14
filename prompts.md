@@ -8,13 +8,17 @@ Add page on which I can take picture from my laptop's camera. I need to be able 
 
 ### MCP query for Agent instruction
 
-
+I'm planning to build my own custom agent using Github Copilot Agents. Using awesome-copilot MCP, find me best custom instructions for this task. 
 
 ### MCP query for Agent Skills instruction
+
+I'm planning to build my own custom skill out of existing process. Using awesome-copilot MCP, find me best custom instructions for this task. 
 
 ## Setup phase 2: skills
 
 ### MCP query for Suggest Awesome Github Copilot Agents skill
+
+Do you have any good skill in awesome-copilot that can be used to assist in selecting best custom skills from this MCP?
 
 ### MCP query for Specification skill
 
