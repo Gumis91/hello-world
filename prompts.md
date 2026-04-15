@@ -60,9 +60,15 @@
 
 ### Implementation plan generator mode on specification
 
+> Create implementation plan out of this specification
+
 ## Custom skill out of pipeline: from specification to implementation plan
 
 ## Custom agent out of pipeline: from specification to implementation plan, with devil's advocate and RUG agents in the loop
 
+> I've created #file:design-camera-capture-page.md using /create-specification skill. I then fed it into this conversation. Help me build custom skill out of it with accompanying agent.
+
 ## Implement feature X
+
+> implement this feature using defined tasks
 
