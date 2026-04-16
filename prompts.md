@@ -79,17 +79,6 @@ Setup:
 
 > /create-specification Add page on which I can take picture from my laptop's camera. I need to be able to take one or more pictures, and then download them to my computer. The page should be simple and easy to use, with a clear button to take the picture and a clear button to download the pictures.
 
-### Showcase Tl;Dr skill
-
-Setup:
-
-- new conversation
-- agent mode
-- auto
-- awesome-copilot tool enabled
-
-> /tldr-prompt what's in agent-skills.instructions.md?
-
 ## Setup phase 3: agents
 
 ### MCP query for agents
@@ -174,3 +163,14 @@ Setup:
 - same conversation
 
 > /plugin-dev:create-plugin Create plugin out of created skills and agents. Include external dependencies like used MCP servers, agents, skills and instructions
+
+### Showcase Tl;Dr skill
+
+Setup:
+
+- new conversation
+- agent mode
+- auto
+- awesome-copilot tool enabled
+
+> /tldr-prompt what's in plugin-dev:create-plugin?
