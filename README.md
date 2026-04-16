@@ -1,59 +1,51 @@
-# HelloWorld
+# Copilot Setup Presentation Showcase
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
+This repository is a showcase for a presentation on how to set up GitHub Copilot and get practical value from:
 
-## Development server
+- Custom instructions
+- Skills
+- Agents
+- MCP integrations
+- Plugin and marketplace workflows
 
-To start a local development server, run:
+## What This Repo Contains
 
-```bash
-ng serve
-```
+- Presentation-oriented demo app and supporting materials
+- A step-by-step prompt flow to run the full setup and demo sequence
+- Curated reference links for specs, docs, and marketplaces
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Presentation Playbook
 
-## Code scaffolding
+Use the full walkthrough in:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- [resources/prompts.md](resources/prompts.md)
 
-```bash
-ng generate component component-name
-```
+This file contains the end-to-end demo script, including setup phases, suggested prompts, and replay flow.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Valuable Resources
 
-```bash
-ng generate --help
-```
+Use the curated links in:
 
-## Building
+- [resources/links.md](resources/links.md)
 
-To build the project run:
+This file groups useful references for specifications and marketplaces used in the presentation.
 
-```bash
-ng build
-```
+## Run The Project
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+Install dependencies:
 
 ```bash
-ng test
+npm install
 ```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+Start the app:
 
 ```bash
-ng e2e
+npm start
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Run tests:
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```bash
+npm test
+```
