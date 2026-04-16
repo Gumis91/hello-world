@@ -102,7 +102,7 @@ Setup:
 
 Setup:
 
-- new conversation
+- return to refinement conversation
 - Devil's advocate
 - auto
 - add specs to chat
